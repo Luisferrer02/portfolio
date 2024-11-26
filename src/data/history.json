@@ -1,0 +1,14 @@
+[
+  {
+    "role": "Desarrollador Junior",
+    "organisation": "Juniper Travel Technology",
+    "startDate": "Jul 2024",
+    "endDate": "Ago 2024",
+    "imageSrc": "/assets/history/juniper.png",
+    "experiences": [
+      "Resolucion de incidencias",
+      "Gestion de datos de clientes",
+      "Trabajo en equipo"
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Web de Comics",
+    "imageSrc": "/assets/projects/marvel.png",
+    "description": "Una página web que se conecta a la API de marvel para mostrar y filtrar comics con su descripcion e imagenes.",
+    "skills": ["React", "CSS", "JavaScript", "API Marvel"],
+    "demo": "https://luisferrer02.github.io/practicainter/",
+    "source": "https://github.com/luisferrer02/practicainter"
+  },
+  {
+    "title": "Proyecto ODM para gestion de ventas online",
+    "imageSrc": "/assets/projects/project.png",
+    "description": "Proyecto de Object Document Manager, usando MongoDB, Redis y Python para simular una BD de ventas de una pagina web.",
+    "skills": ["Python", "Redis", "MongoDB"],
+    "demo": "no disponible",
+    "source": "https://github.com/luisferrer02/ABD"
+  },
+  {
+    "title": "Pokedex con PokeAPI",
+    "imageSrc": "/assets/projects/pokemon.png",
+    "description": "Proyecto de app móvil para android.",
+    "skills": ["Kotlin", "AndroidStudio", "Firebase"],
+    "demo": "no disponible",
+    "source": "https://github.com/luisferrer02/PokemonFragments"
+  },
+  {
+    "title": "Juego por teclado con patrones de diseño",
+    "imageSrc": "",
+    "description": "Proyecto de un juego basico que usa diferentes patrones como el Factory, Strategy, etc .",
+    "skills": ["Java", "Design patterns"],
+    "demo": "no disponible",
+    "source": "https://github.com/luisferrer02/DisenoSoftwareFinal"
+  },
+  {
+    "title": "Juego de plantas vs zombies en java",
+    "imageSrc": "",
+    "description": "Juego basico para familiarizarme con patrones de diseño y clases Java.",
+    "skills": ["Java", "Design patterns"],
+    "demo": "no disponible",
+    "source": "https://github.com/luisferrer02/PvZ"
+  },
+  {
+    "title": "Proyecto de pagina web de adopcion de animales",
+    "imageSrc": "",
+    "description": "Pagina web basica que usa una API para mostrar informacion de animales y permite simular una peticion de adopcion.",
+    "skills": ["React", "JS", "CSS"],
+    "demo": "luisferrer02.github.io/peludos",
+    "source": "https://github.com/luisferrer02/peludos"
+  },
+  {
+    "title": "Pagina web de portfolio personal",
+    "imageSrc": "",
+    "description": "Esta misma pagina web.",
+    "skills": ["React", "JS", "CSS"],
+    "demo": "luisferrer02.github.io/portfolio",
+    "source": "https://github.com/luisferrer02/portfolio"
+  }
+
+]
