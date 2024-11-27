@@ -12,7 +12,7 @@ export const Hero = () => {
         <div className={styles.buttonGroup}>
           {/* Línea 1: Botón CV */}
           <a
-            href="/data/CVLuisFerrerFinal.pdf"
+            href="/portfolio/data/CVLuisFerrerFinal.pdf"
             download="LuisFerrerCV.pdf"
             className={styles.cvBtn}
           >
