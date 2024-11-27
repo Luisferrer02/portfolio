@@ -18,7 +18,7 @@ export const Hero = () => {
           >
             Descargar CV
             <img
-              src="/assets/hero/download.png"
+              src="/portfolio/assets/hero/download.png"
               alt="Download Icon"
               className={styles.icon}
             />
@@ -32,7 +32,7 @@ export const Hero = () => {
             >
               Contact Me
               <img
-                src="/assets/contact/emailIcon.png"
+                src="/portfolio/assets/contact/emailIcon.png"
                 alt="Email Icon"
                 className={styles.icon}
               />
@@ -45,7 +45,7 @@ export const Hero = () => {
             >
               GitHub
               <img
-                src="/assets/contact/githubIcon.png"
+                src="/portfolio/assets/contact/githubIcon.png"
                 alt="GitHub Icon"
                 className={styles.icon}
               />
@@ -58,7 +58,7 @@ export const Hero = () => {
             >
               LinkedIn
               <img
-                src="/assets/contact/linkedinIcon.png"
+                src="/portfolio/assets/contact/linkedinIcon.png"
                 alt="LinkedIn Icon"
                 className={styles.icon}
               />
@@ -68,7 +68,7 @@ export const Hero = () => {
 
       </div>
       <img
-        src="/assets/hero/heroImage.jpg"
+        src="/portfolio/assets/hero/heroImage.jpg"
         alt="Mi foto"
         className={styles.heroImg}
       />
