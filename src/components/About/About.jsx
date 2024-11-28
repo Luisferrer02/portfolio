@@ -32,6 +32,18 @@ export const About = () => {
               </p>
             </div>
           </li>
+          <li className={styles.aboutItem}>
+            <img src="/portfolio/assets/about/serverIcon.png" alt="Server icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Analisis y Gestion de datos</h3>
+              <p>
+                Experiencia académica en la recopilación, limpieza y análisis de datos,
+                utilizando herramientas como Excel, Python (pandas y NumPy) y SQL. 
+                Familiaridad con la representación de datos en visualizaciones utilizando 
+                librerías como Matplotlib.
+              </p>
+            </div>
+          </li>
         </ul>
       </div>
     </section>
